@@ -1,0 +1,6 @@
+.venv
+apache-zookeeper-3.8.5-bin
+results
+connection_mngr
+election_node
+*.py
